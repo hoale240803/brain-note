@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "bf8cb4e4355895c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "b25bcc5671648d45",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88ad08c77f91e6a0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5d9e53b05e7ec479",
+    "type": "split",
+    "children": [
+      {
+        "id": "8585e9d7091009aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e267fe2e2a41a91",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "48756b7977ac690a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a736db7d5f0ec1cc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8f71e73edf7ece1c",
+    "type": "split",
+    "children": [
+      {
+        "id": "06ed0807e07bf740",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6188bd952828ed27",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Quản Lý Tài Chính/Giảm Chi Phí.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "b5e3cccd38f578d1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Quản Lý Tài Chính/Giảm Chi Phí.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "0849384d0738a1b7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a8c42c8840df6077",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "7e76bd839ecc181e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Quản Lý Tài Chính/Giảm Chi Phí.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "templates:Insert template": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "88ad08c77f91e6a0",
+  "lastOpenFiles": [
+    "Quản Lý Tài Chính/Giảm Chi Phí.md",
+    "2026-09-21.md",
+    "Untitled.canvas",
+    "Thiết Kế Phần Mềm/1 Back End.md",
+    "2 Programming Language.md",
+    "Thiết Kế Phần Mềm/0. Thiết Kế Phần Mềm - Index.md",
+    "Thiết Kế Phần Mềm/Security.md",
+    "Algorithm.md",
+    "General Contractor/0. GC - General Contractor.md",
+    "General Contractor/1. Certification.md",
+    "Nails/0. Nails.md",
+    "Nails/Tools.md",
+    "General Contractor/Resources supply.md",
+    "General Contractor/Jobs.md",
+    "General Contractor/Tax Services.md",
+    "General Contractor/Tools.md",
+    "Nails/Certification.md",
+    "Nails/Services Skill.md",
+    "Nails/Supplies.md",
+    "Untitled.md",
+    "Nails",
+    "General Contractor/Building Contruction.md",
+    "General Contractor/Electric.md",
+    "General Contractor/HVAC.md",
+    "General Contractor/Plumming.md",
+    "General Contractor",
+    "Quản Lý Tài Chính/0. Quản Lý Tài Chính - Index.md",
+    "Untitled 3.canvas",
+    "Thiết Kế Phần Mềm/Untitled",
+    "Thiết Kế Phần Mềm/Cloud.md",
+    "Thiết Kế Phần Mềm/Database.md",
+    "Thiết Kế Phần Mềm",
+    "Quản Lý Tài Chính",
+    "Untitled 2.canvas",
+    "Untitled.base",
+    "Pasted image 20260921124749.png",
+    "Untitled 1.canvas",
+    "Pasted image 20260921124736.png"
+  ]
+}
