@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7f181efa4015b334",
+        "id": "38975f3f4d38337b",
         "type": "tabs",
         "children": [
           {
-            "id": "39910f49cde1df88",
+            "id": "1f9909162fd1122f",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -184,8 +184,24 @@
       "bases:Create new base": false
     }
   },
-  "active": "39910f49cde1df88",
+  "active": "1f9909162fd1122f",
   "lastOpenFiles": [
+    "AI/How to write a good resume/PART3/Conclusion.pdf",
+    "AI/How to write a good resume/PART3/Chapter 13 Advice for Hiring Managers on Running a Good Screening Process.pdf",
+    "AI/How to write a good resume/PART3/Chapter 12 Resume Improvement Examples.pdf",
+    "AI/How to write a good resume/PART3/Chapter 11 Resume Templates.pdf",
+    "AI/How to write a good resume/PART3/Chapter 10 Good Resume Template Principles.pdf",
+    "AI/How to write a good resume/1 Acknowledgements.pdf",
+    "AI/How to write a good resume/PART3",
+    "AI/How to write a good resume/PART2/PART 3 EXAMPLES AND INSPIRATION.pdf",
+    "AI/How to write a good resume/PART2/Chapter 9 Beyond the Resume.pdf",
+    "AI/How to write a good resume/PART2/Chapter 8 Exercises to Polish Your Resume.pdf",
+    "AI/How to write a good resume/PART2/Chapter 7 Different Experience Levels, Different Career Paths.pdf",
+    "AI/How to write a good resume/Untitled.md",
+    "Taxes/1.1 Tự Khai báo thuế ở Mỹ.md",
+    "Taxes/1.2 Tự khai báo thuế ở Mỹ cho doanh nghiệp nhỏ SMB.md",
+    "Taxes/0. Taxes.md",
+    "Taxes/1.3 Tự khai báo thuế cho doanh nghiệp lớn - Enterprise.md",
     "Thiết Kế Phần Mềm/0. Thiết Kế Phần Mềm - Index.md",
     "Thiết Kế Phần Mềm/Cloud/1.2 Cloud.md",
     "Thiết Kế Phần Mềm/Backend/2.3 System Design.md",
@@ -207,20 +223,8 @@
     "Nails/1.4 Tools.md",
     "General Contractor/1.8 Tax Services.md",
     "General Contractor/1.7 Resources supply.md",
-    "General Contractor/1.6 Plumming.md",
-    "General Contractor/1.5 Jobs.md",
-    "General Contractor/1.4 HVAC.md",
-    "General Contractor/1.3 Electric.md",
-    "General Contractor/1.2 Building Contruction.md",
-    "Thiết Kế Phần Mềm/Cloud",
-    "Thiết Kế Phần Mềm/Backend",
-    "Nails",
-    "General Contractor",
     "Untitled 3.canvas",
-    "Thiết Kế Phần Mềm",
-    "Quản Lý Tài Chính",
     "Untitled 2.canvas",
-    "Untitled.base",
     "Pasted image 20260921124749.png",
     "Untitled 1.canvas",
     "Pasted image 20260921124736.png"
