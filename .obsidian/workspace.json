@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f2e1abe6e33ea4c5",
+        "id": "44423e1113a5cfae",
         "type": "tabs",
         "children": [
           {
-            "id": "f0161d703e241ed1",
+            "id": "31fffd876b73c3eb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nails/0. Nails.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "0. Nails"
+              "title": "New tab"
             }
           }
         ]
@@ -41,7 +37,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false,
+                "autoReveal": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -188,8 +184,31 @@
       "bases:Create new base": false
     }
   },
-  "active": "f0161d703e241ed1",
+  "active": "8e267fe2e2a41a91",
   "lastOpenFiles": [
+    "AI/ByteByteGo/Behavioral Interview/Untitled.canvas",
+    "AI/ByteByteGo/Coding Interview Patterns/04 Fast And Slow Pointers/3.4 Fast and Slow Pointers.md",
+    "AI/ByteByteGo/Coding Interview Patterns/2.2 Coding Interview Patterns.md",
+    "AI/ByteByteGo/1. ByteByteGo.md",
+    "AI/0.1 AI.md",
+    "AI/ByteByteGo/Coding Interview Patterns/07 Stack/3.7 Stack.md",
+    "AI/ByteByteGo/Coding Interview Patterns/06 Binary Search/3.6 Binary Search.md",
+    "AI/ByteByteGo/Coding Interview Patterns/05 Sliding Windows/3.5 Sliding Windows.md",
+    "AI/ByteByteGo/Coding Interview Patterns/02 Hash Maps and Sets/3.2 Hash Maps and Sets.md",
+    "AI/ByteByteGo/Coding Interview Patterns/01 Two Pointers/3.1 - 01 Two pointers.md",
+    "AI/ByteByteGo/Coding Interview Patterns/03 Linked Lists/3.3 Linked Lists.md",
+    "AI/ByteByteGo/Coding Interview Patterns/01 Two Pointers/Introduction to Two Pointers.pdf",
+    "AI/ByteByteGo/Behavioral Interview/2.1 Behavioral Interview.md",
+    "AI/ByteByteGo/Behavioral Interview/PART2 -  The competencies/3.2 PART2 - The competencies.md",
+    "AI/ByteByteGo/Behavioral Interview/PART1 -  The Framework/3.1 PART1 - The Framework.md",
+    "Car/0.4 Car.md",
+    "Car/New Cars/1.3 New Cars.md",
+    "Car/New Cars",
+    "Car/Used Cars/1.2 Used Cars.md",
+    "Car/Driver License/1.1 Driver License.md",
+    "Car/Used Cars",
+    "Nails/0. Nails.md",
+    "Car/Driver License",
     "History/0.7 History.md",
     "History/Viet Nam/1.3 Viet Nam.md",
     "History/Chinese/1.2 Chinese.md",
@@ -200,32 +219,9 @@
     "History/Viet Nam",
     "General Contractor/0.6 GC - General Contractor.md",
     "General Contractor/0.6 General Contractor.md",
-    "CyberSecurity/0.5 Cybersecurity.md",
-    "AI/0.1 AI.md",
-    "AI/ByteByteGo/1. ByteByteGo.md",
-    "Banking/0.2 Banking.md",
-    "Business/0.3 Business.md",
-    "Car/0.4 Car.md",
-    "AI/ByteByteGo/System Design Interview/2.8 System Design Interview.md",
-    "AI/ByteByteGo/Object-Oriented Design Interview/2.7 Object-Oriented Design Interview.md",
-    "AI/ByteByteGo/Mobile System Design Interview/2.6 Mobile System Design Interview.md",
-    "AI/ByteByteGo/Machine Learning System Design Interview/2.5 Machine Learning System Design Interview.md",
-    "AI/ByteByteGo/How to write a good resume/2.4 How to write a good resume.md",
-    "AI/ByteByteGo/Generative AI System Design Interview/2.3 Generative AI System Design Interview.md",
-    "AI/ByteByteGo/Coding Interview Patterns/2.2 Coding Interview Patterns.md",
-    "AI/ByteByteGo/Coding Interview Patterns/2.2 Coding Interview Patterns.md",
-    "AI/ByteByteGo/Coding Interview Patterns/01 Two Pointers/3.1 - 01 Two pointers.md",
-    "AI/ByteByteGo/Coding Interview Patterns/1. Byte.md",
-    "AI/ByteByteGo/Behavioral Interview/PART2 -  The competencies/3.2 PART2 - The competencies.md",
-    "AI/ByteByteGo/Behavioral Interview/2.1 Behavioral Interview.md",
-    "Thiết Kế Phần Mềm/Backend/1.1 Back End.md",
     "AI/ByteByteGo/Behavioral Interview/Introduction - Why Your Stories Matter as Much as Your Skills.pdf",
     "AI/Coding Interview Patterns/19 Math And Geometry/Triangle Numbers.pdf",
     "AI/Coding Interview Patterns/19 Math And Geometry/The Josephus Problem.pdf",
-    "AI/Coding Interview Patterns/19 Math And Geometry/Maximum Collinear Points.pdf",
-    "AI/Coding Interview Patterns/19 Math And Geometry/Reverse 32-Bit Integer.pdf",
-    "AI/Coding Interview Patterns/19 Math And Geometry/Spiral Traversal.pdf",
-    "AI/Coding Interview Patterns/19 Math And Geometry/Introduction to Math and Geometry.pdf",
     "Untitled.canvas",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
