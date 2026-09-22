@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "38975f3f4d38337b",
+        "id": "bc330fc76ceab8d5",
         "type": "tabs",
         "children": [
           {
-            "id": "1f9909162fd1122f",
+            "id": "bc8dd3cfd9d91d9a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -79,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 480.5
   },
   "right": {
     "id": "8f71e73edf7ece1c",
@@ -184,19 +184,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "1f9909162fd1122f",
+  "active": "bc8dd3cfd9d91d9a",
   "lastOpenFiles": [
-    "AI/How to write a good resume/PART3/Conclusion.pdf",
-    "AI/How to write a good resume/PART3/Chapter 13 Advice for Hiring Managers on Running a Good Screening Process.pdf",
-    "AI/How to write a good resume/PART3/Chapter 12 Resume Improvement Examples.pdf",
-    "AI/How to write a good resume/PART3/Chapter 11 Resume Templates.pdf",
-    "AI/How to write a good resume/PART3/Chapter 10 Good Resume Template Principles.pdf",
-    "AI/How to write a good resume/1 Acknowledgements.pdf",
-    "AI/How to write a good resume/PART3",
-    "AI/How to write a good resume/PART2/PART 3 EXAMPLES AND INSPIRATION.pdf",
-    "AI/How to write a good resume/PART2/Chapter 9 Beyond the Resume.pdf",
-    "AI/How to write a good resume/PART2/Chapter 8 Exercises to Polish Your Resume.pdf",
-    "AI/How to write a good resume/PART2/Chapter 7 Different Experience Levels, Different Career Paths.pdf",
+    "AI/Coding Interview Patterns/19 Math And Geometry/Triangle Numbers.pdf",
+    "AI/Coding Interview Patterns/19 Math And Geometry/The Josephus Problem.pdf",
+    "AI/Coding Interview Patterns/19 Math And Geometry/Maximum Collinear Points.pdf",
+    "AI/Coding Interview Patterns/19 Math And Geometry/Reverse 32-Bit Integer.pdf",
+    "AI/Coding Interview Patterns/19 Math And Geometry/Spiral Traversal.pdf",
+    "AI/Coding Interview Patterns/19 Math And Geometry/Introduction to Math and Geometry.pdf",
+    "AI/Coding Interview Patterns/19 Math And Geometry",
+    "AI/Coding Interview Patterns/New folder",
+    "AI/Coding Interview Patterns/18 Bit Manipulation/Swap Odd and Even Bits.pdf",
+    "AI/Coding Interview Patterns/18 Bit Manipulation/Lonely Integer.pdf",
+    "AI/Coding Interview Patterns/18 Bit Manipulation/Hamming Weights of Integers.pdf",
     "AI/How to write a good resume/Untitled.md",
     "Taxes/1.1 Tự Khai báo thuế ở Mỹ.md",
     "Taxes/1.2 Tự khai báo thuế ở Mỹ cho doanh nghiệp nhỏ SMB.md",
