@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "44423e1113a5cfae",
+        "id": "5733c46a75f536a5",
         "type": "tabs",
         "children": [
           {
-            "id": "31fffd876b73c3eb",
+            "id": "bac18f7de89a447a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "AI/ByteByteGo/Coding Interview Patterns/11 Trees/3.11 Trees.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "3.11 Trees"
             }
           }
         ]
@@ -184,16 +188,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "8e267fe2e2a41a91",
+  "active": "bac18f7de89a447a",
   "lastOpenFiles": [
-    "AI/ByteByteGo/Behavioral Interview/Untitled.canvas",
+    "AI/ByteByteGo/Coding Interview Patterns/10 Prefix Sums/3.10 Prefix Sums.md",
+    "AI/ByteByteGo/Coding Interview Patterns/11 Trees/3.11 Trees.md",
+    "AI/ByteByteGo/Coding Interview Patterns/09 Intervals/3.9 Intervals.md",
+    "AI/ByteByteGo/Coding Interview Patterns/08 Heaps/3.8 Heaps.md",
+    "AI/ByteByteGo/Coding Interview Patterns/07 Stack/3.7 Stack.md",
+    "AI/ByteByteGo/Coding Interview Patterns/05 Sliding Windows/3.5 Sliding Windows.md",
     "AI/ByteByteGo/Coding Interview Patterns/04 Fast And Slow Pointers/3.4 Fast and Slow Pointers.md",
+    "AI/ByteByteGo/Behavioral Interview/Untitled.canvas",
     "AI/ByteByteGo/Coding Interview Patterns/2.2 Coding Interview Patterns.md",
     "AI/ByteByteGo/1. ByteByteGo.md",
     "AI/0.1 AI.md",
-    "AI/ByteByteGo/Coding Interview Patterns/07 Stack/3.7 Stack.md",
     "AI/ByteByteGo/Coding Interview Patterns/06 Binary Search/3.6 Binary Search.md",
-    "AI/ByteByteGo/Coding Interview Patterns/05 Sliding Windows/3.5 Sliding Windows.md",
     "AI/ByteByteGo/Coding Interview Patterns/02 Hash Maps and Sets/3.2 Hash Maps and Sets.md",
     "AI/ByteByteGo/Coding Interview Patterns/01 Two Pointers/3.1 - 01 Two pointers.md",
     "AI/ByteByteGo/Coding Interview Patterns/03 Linked Lists/3.3 Linked Lists.md",
@@ -213,12 +221,9 @@
     "History/Viet Nam/1.3 Viet Nam.md",
     "History/Chinese/1.2 Chinese.md",
     "History/America/1.1 America.md",
-    "History/Untitled.md",
     "History/Chinese",
     "History/America",
     "History/Viet Nam",
-    "General Contractor/0.6 GC - General Contractor.md",
-    "General Contractor/0.6 General Contractor.md",
     "AI/ByteByteGo/Behavioral Interview/Introduction - Why Your Stories Matter as Much as Your Skills.pdf",
     "AI/Coding Interview Patterns/19 Math And Geometry/Triangle Numbers.pdf",
     "AI/Coding Interview Patterns/19 Math And Geometry/The Josephus Problem.pdf",
