@@ -1,0 +1,1 @@
+https://www.investopedia.com/articles/mortgages-real-estate/12/property-tax-abatement.asp#ixzz3Y4I9E5x4

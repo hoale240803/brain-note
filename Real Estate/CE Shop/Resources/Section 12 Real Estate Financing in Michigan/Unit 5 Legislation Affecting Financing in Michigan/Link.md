@@ -1,0 +1,1 @@
+https://www.consumerfinance.gov/ask-cfpb/what-is-a-qualified-mortgage-en-1789/
