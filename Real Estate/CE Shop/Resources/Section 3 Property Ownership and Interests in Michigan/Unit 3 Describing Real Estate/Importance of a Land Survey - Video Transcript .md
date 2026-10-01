@@ -1,0 +1,3 @@
+Importance of a Land Survey - Video Transcript 
+
+At closing, many people assume they are buying property and improvements shown to them by a REALTOR® or developer. Unfortunately, what they see is not always what they get. It may come as a shock to learn that they actually bought property described in a document called a deed. The deed is evidence of legal ownership of property; in other words, proof of purchase. Although the deed describes the property in detail, it can be difficult to understand. Land surveyors specialize in the location and visual depiction of real property as described in the deed. Obtaining a survey will clearly define the property and reveal potential concerns.

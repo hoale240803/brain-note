@@ -1,0 +1,1 @@
+https://www.legislature.mi.gov/Laws/MCL?objectName=MCL-ACT-451-OF-1994
