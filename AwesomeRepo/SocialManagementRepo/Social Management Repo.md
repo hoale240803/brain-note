@@ -1,0 +1,10 @@
+
+| Tên repo           | Link repo                                                                                              | Mô tả                                                                              | Tính năng hỗ trợ                                                                                     | Công nghệ                           |
+| ------------------ | ------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ----------------------------------- |
+| Postiz             | [https://github.com/gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app)                     | Công cụ mã nguồn mở lên lịch và quản lý mạng xã hội hàng đầu (Buffer alternative). | Lên lịch đăng bài, AI viết nội dung, analytics, quản lý nhóm, hỗ trợ đa nền tảng.                    | TypeScript, Next.js, NestJS, Docker |
+| Social Hub         | [https://github.com/braxcat/social-hub](https://github.com/braxcat/social-hub)                         | Bảng điều khiển quản lý mạng xã hội tích hợp AI (Hootsuite alternative).           | Quản lý Facebook, Instagram, TikTok, X, LinkedIn, AI Post Composer, Unified Inbox, Content Calendar. | Node.js, Tailwind CSS               |
+| PostPilot          | [https://github.com/FreeOps-Tools/postpilot](https://github.com/FreeOps-Tools/postpilot)               | Ứng dụng viết một lần đăng mọi nơi (Write once, post everywhere).                  | Đăng bài đa nền tảng (Facebook, Instagram, TikTok, LinkedIn), tự động tối ưu định dạng nội dung.     | Node.js, Python, OAuth              |
+| Social Auto Engine | [https://github.com/Freespirits/social-auto-engine](https://github.com/Freespirits/social-auto-engine) | Nền tảng quản lý đa kênh hướng tự động hóa kết hợp AI.                             | Luồng phê duyệt bài viết, AI sinh nội dung/hình ảnh, dự đoán tương tác.                              | TypeScript, Python, Docker          |
+
+
+#level1

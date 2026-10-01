@@ -1,0 +1,1 @@
+https://www.theceshop.com/michigan/pre-licensing/how-to-become-real-estate-agent-michigan-salesperson/
