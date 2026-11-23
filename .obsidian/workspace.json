@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7b568fb601b88c80",
+        "id": "f8a5976da92531c4",
         "type": "tabs",
         "children": [
           {
-            "id": "8df4188c56dbb04b",
+            "id": "2b5737c296a2a1ba",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Real Estate/CE Shop/Resources/Section 5 MI Land Use Controls and Environmental Issues/Unit 1 Government Rights in Land/Lessons/Lesson 2 Vocab.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lesson 2 Vocab"
             }
           }
         ]
@@ -37,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true,
+                "autoReveal": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -79,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 480.5
+    "width": 360.5
   },
   "right": {
     "id": "8f71e73edf7ece1c",
@@ -95,9 +99,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quản Lý Tài Chính/Giảm Chi Phí.md",
+                "file": "Real Estate/CE Shop/Resources/Final Exam/FinalExam-Part1.pdf",
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -114,7 +118,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quản Lý Tài Chính/Giảm Chi Phí.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -157,8 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quản Lý Tài Chính/Giảm Chi Phí.md",
-                "followCursor": false,
+                "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -184,44 +186,50 @@
       "bases:Create new base": false
     }
   },
-  "active": "8df4188c56dbb04b",
+  "active": "2b5737c296a2a1ba",
   "lastOpenFiles": [
-    "Real Estate/CE Shop/Resources/Section 2 Michigan License Law and Rules/Unit 1 Duties and Powers of the Department and the Board/Michigan Board of Real Estate Brokers and Salespersons.pdf",
-    "Real Estate/CE Shop/Resources/Section 2 Michigan License Law and Rules/Unit 1 Duties and Powers of the Department and the Board/Duties and Powers of the Department and the State Board of Real Estate.pdf",
-    "Real Estate/CE Shop/Resources/Section 19 Michigan Pre-Licensing - Practice Exams/Unit 2 National Exam Practice (PSI)/Michigan_Real_Estate_Course_Structure.md",
-    "Real Estate/CE Shop/Resources/Section 19 Michigan Pre-Licensing - Practice Exams/Unit 2 National Exam Practice (PSI)/Unconfirmed 288838.crdownload",
-    "Real Estate/CE Shop/Resources/Section 19 Michigan Pre-Licensing - Practice Exams/Unit 2 National Exam Practice (PSI)/2d30d55e-40f9-47ee-9a71-ab00e8604382.tmp",
-    "Real Estate/CE Shop/Resources/Section 2 Michigan License Law and Rules/Unit 2 Licensing Requirements/Activities Requiring A License in Michigan.pdf",
-    "Real Estate/Real Tag.md",
-    "Real Estate/CE Shop/Scripts/scripts.js",
-    "Real Estate/CE Shop/Scripts/Untitled.md",
-    "Real Estate/CE Shop/Scripts/scripts.md",
-    "Real Estate/CE Shop/Scripts",
-    "Real Estate/CE Shop/Resources/Section 2 Michigan License Law and Rules/Unit 1 Duties and Powers of the Department and the Board/Lessons/Lesson3.md",
-    "Real Estate/CE Shop/Resources/Section 2 Michigan License Law and Rules/Unit 1 Duties and Powers of the Department and the Board/Lessons/Lesson3 Investigations, conferences, and Hearings.md",
-    "Real Estate/CE Shop/Resources/Resources.md",
-    "Real Estate/Real Estate.md",
-    "Real Estate/CE Shop/Resources/Section 2 Michigan License Law and Rules/Unit 1 Duties and Powers of the Department and the Board/Lessons/Lesson2 Vocab.md",
-    "Real Estate/CE Shop/Resources/Section 2 Michigan License Law and Rules/Unit 1 Duties and Powers of the Department and the Board/Lessons/Lesson2 Don and Cooper.md",
-    "Real Estate/CE Shop/Resources/Section 2 Michigan License Law and Rules/Unit 1 Duties and Powers of the Department and the Board/The Informal Conference.pdf",
-    "Real Estate/CE Shop/Resources/Section 2 Michigan License Law and Rules/Unit 1 Duties and Powers of the Department and the Board/Statement of Complaint Form.pdf",
-    "Real Estate/CE Shop/Resources/Section 2 Michigan License Law and Rules/Unit 1 Duties and Powers of the Department and the Board/Michigan Complaint Process.pdf",
-    "Real Estate/CE Shop/Resources/Section 2 Michigan License Law and Rules/Unit 1 Duties and Powers of the Department and the Board/Michigan Department of Licensing and Regulatory Affairs (LARA) Organizational Chart.pdf",
-    "Real Estate/CE Shop/Resources/Section 2 Michigan License Law and Rules/Unit 1 Duties and Powers of the Department and the Board/Lessons/Lesson 1 Michigan Department of Licensing and Regulatory Affairs.md",
-    "Real Estate/CE Shop/RE Vocabulary.md",
-    "Real Estate/CE Shop/Resources/Section 1 Your Michigan Pre-licensing Course/Student Support contact page.md",
-    "Real Estate/CE Shop/Resources/Section 1 Your Michigan Pre-licensing Course/Michigan MiPLUS website.md",
-    "Real Estate/CE Shop/Resources/Section 1 Your Michigan Pre-licensing Course/Link CE Shop.md",
-    "Real Estate/CE Shop/Resources/Section 1 Your Michigan Pre-licensing Course/How to Get Your Michigan Real Estate License.md",
-    "Real Estate/CE Shop/Resources/Section 1 Your Michigan Pre-licensing Course/Essential Guide to Real Estate Textbook.md",
-    "AwesomeRepo/SocialManagementRepo/Social Management Repo.md",
-    "Real Estate/CE Shop/Resources/Section 18 Michigan Pre-licensing Course Wrap Up/Unit 1 Michigan Pre-licensing Course Wrap Up/Link.md",
-    "Real Estate/CE Shop/Resources/Section 2 Michigan License Law and Rules/Unit 3 Statutory Requirements Governing the Activities of Licensees (Occupational Code)/FlashCard.md",
-    "Real Estate/CE Shop/Resources/Section 1 Your Michigan Pre-licensing Course/x.md",
-    "Real Estate/02-Summaries/01-Michigan-Licensing-Overview.md",
-    "Nails/1.2 Services Skill.md",
-    "Nails/1.1 Certification.md",
-    "Nails/0. Nails.md",
+    "Real Estate/CE Shop/Resources/Section 5 MI Land Use Controls and Environmental Issues/Unit 1 Government Rights in Land/Lessons/Lesson 2 Land Use Control Zoning & Police Power.md",
+    "Real Estate/CE Shop/Resources/Section 5 MI Land Use Controls and Environmental Issues/Unit 1 Government Rights in Land/Lessons/Lesson 2 Vocab.md",
+    "Real Estate/CE Shop/Resources/Section 5 MI Land Use Controls and Environmental Issues/Unit 1 Government Rights in Land/Lessons/Lesson 1 Types of Government Power.md",
+    "Real Estate/CE Shop/Resources/Section 4 Agency in Michigan/Unit 4 Agency Creation and Termination/Lessons/Unit Exam.md",
+    "Real Estate/CE Shop/Resources/Section 5 MI Land Use Controls and Environmental Issues/Unit 1 Government Rights in Land/Lessons",
+    "Real Estate/CE Shop/Resources/Section 4 Agency in Michigan/Unit 4 Agency Creation and Termination/Lessons/Lesson 5 Agency in Michigan Study Sheet.md",
+    "Real Estate/CE Shop/Resources/Section 4 Agency in Michigan/Unit 4 Agency Creation and Termination/Lessons/Lesson 4 Termination of Agency.md",
+    "Real Estate/CE Shop/Resources/Section 4 Agency in Michigan/Unit 4 Agency Creation and Termination/Lessons/Lesson 3 Agency Disclosure in Michigan.md",
+    "Real Estate/CE Shop/Resources/Section 4 Agency in Michigan/Unit 4 Agency Creation and Termination/Lessons/Lesson 2 Compensation Does Not Determine Agency.md",
+    "Real Estate/CE Shop/Resources/Section 4 Agency in Michigan/Unit 4 Agency Creation and Termination/Lessons/Lesson 1 Creating Agency.md",
+    "Real Estate/CE Shop/Resources/Section 4 Agency in Michigan/Unit 4 Agency Creation and Termination/Lessons/Lesson 1 Vocab.md",
+    "Real Estate/CE Shop/Resources/Section 4 Agency in Michigan/Unit 3 Fiduciary Duties/Lessons/Unit Exam.md",
+    "Real Estate/CE Shop/Resources/Section 4 Agency in Michigan/Unit 4 Agency Creation and Termination/Lessons",
+    "Real Estate/CE Shop/Resources/Section 4 Agency in Michigan/Unit 3 Fiduciary Duties/Lessons/Lesson 7 The Duty of Reasonable Skill and Care.md",
+    "Real Estate/CE Shop/Resources/Section 4 Agency in Michigan/Unit 3 Fiduciary Duties/Lessons/Lesson 6 The Duty of Accounting.md",
+    "Real Estate/CE Shop/Resources/Section 4 Agency in Michigan/Unit 3 Fiduciary Duties/Lessons/Lesson 5 The Duty of Confidentiality.md",
+    "Real Estate/CE Shop/Resources/Section 4 Agency in Michigan/Unit 3 Fiduciary Duties/Lessons/Lesson 4 The Duty of Disclosure.md",
+    "Real Estate/CE Shop/Resources/Section 4 Agency in Michigan/Unit 3 Fiduciary Duties/Lessons/Untitled",
+    "Real Estate/CE Shop/Resources/Section 4 Agency in Michigan/Unit 3 Fiduciary Duties/Lessons/Lesson 3 The Duty of Loyalty.md",
+    "Real Estate/CE Shop/Resources/Section 4 Agency in Michigan/Unit 3 Fiduciary Duties/Lessons/Lesson 2 The Duty of Obedience.md",
+    "Real Estate/CE Shop/Resources/Section 3 Property Ownership and Interests in Michigan/Unit 3 Describing Real Estate/Lessons/Lesson 2 Three Methods of Land Description.md",
+    "Real Estate/CE Shop/Resources/Section 4 Agency in Michigan/Unit 3 Fiduciary Duties/Lessons/Lesson 1 The Agent as Fiduciary.md",
+    "Real Estate/CE Shop/Resources/Section 4 Agency in Michigan/Unit 2 Subagency and Dual Agency Relationships/Lessons/Unit Exam.md",
+    "Real Estate/CE Shop/Resources/Section 4 Agency in Michigan/Unit 3 Fiduciary Duties/Lessons",
+    "Real Estate/CE Shop/Resources/Section 4 Agency in Michigan/Unit 2 Subagency and Dual Agency Relationships/Lessons/Lesson 4 The Use of Designated Agency.md",
+    "Real Estate/CE Shop/Resources/Section 4 Agency in Michigan/Unit 2 Subagency and Dual Agency Relationships/Lessons/Lesson 3 The Importance of Informed Consent with Dual Agency.md",
+    "Real Estate/CE Shop/Resources/Section 4 Agency in Michigan/Unit 2 Subagency and Dual Agency Relationships/Lessons/Lesson 2 What's Dual Agency.md",
+    "Real Estate/CE Shop/Resources/Section 4 Agency in Michigan/Unit 2 Subagency and Dual Agency Relationships/Lessons/Lesson 1 What Is SubAgency.md",
+    "Real Estate/CE Shop/MI Salesperson Exam Prep Edge 0 National & State Portions/ABOUT THIS COURSE.md",
+    "Real Estate/CE Shop/Resources/Section 3 Property Ownership and Interests in Michigan/Unit 4 Encumbrances and Effects on Property Ownership/Lessons/Lesson 1 Encroachments or Easements.md",
+    "Real Estate/CE Shop/MI Salesperson Exam Prep Edge 0 National & State Portions",
+    "Real Estate/CE Shop/Resources/Section 3 Property Ownership and Interests in Michigan/Unit 4 Encumbrances and Effects on Property Ownership/Lessons",
+    "Real Estate/CE Shop/Resources/Section 3 Property Ownership and Interests in Michigan/Unit 3 Describing Real Estate/Lessons",
+    "Real Estate/CE Shop/Resources/Section 3 Property Ownership and Interests in Michigan/Unit 2 Real Property Characteristics and the Bundle of Rights/Lessons",
+    "Real Estate/CE Shop/Resources/Section 4 Agency in Michigan/Unit 1 Types of Agencies and Responsibilities of Agents/Agency Relationships Available in Michigan.pdf",
+    "Real Estate/CE Shop/Resources/Section 4 Agency in Michigan/Unit 2 Subagency and Dual Agency Relationships/Lessons",
+    "Pasted image 20261117214602.png",
+    "Pasted image 20261117214501.png",
+    "Pasted image 20261117213934.png",
+    "Pasted image 20261117213812.png",
+    "Pasted image 20261117213756.png",
+    "Pasted image 20261107142628.png",
     "Untitled.canvas",
     "AI/ByteByteGo/Behavioral Interview/Untitled.canvas",
     "Untitled 3.canvas",
