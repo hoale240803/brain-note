@@ -50,3 +50,4 @@ To re-sell the property for a profit
 
 Reason
 ==🟢Not a reason==
+

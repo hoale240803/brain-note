@@ -16,5 +16,31 @@
       ],
       "key": "ArrowUp"
     }
+  ],
+  "quickadd:choice:0a00b491-4f8f-456c-ba41-e1701afa1e78": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "H"
+    }
+  ],
+  "quickadd:choice:5115293d-c224-4eb0-825f-b0294c377328": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "ArrowLeft"
+    }
+  ],
+  "quickadd:choice:4bb80ed6-dd21-400d-ac77-7437403db719": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "ArrowRight"
+    }
   ]
 }

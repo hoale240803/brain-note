@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4c7a2a86ddab3e48",
+        "id": "3eb694e1baa3ea89",
         "type": "tabs",
         "children": [
           {
-            "id": "0b557ffd758135d7",
+            "id": "b6d112e3511b812a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Real Estate/CE Shop/Resources/Section 5 MI Land Use Controls and Environmental Issues/Unit 1 Government Rights in Land/Lessons/Lesson 4 Power of Escheat in Michigan.md",
+                "file": "Real Estate/CE Shop/Resources/Section 6 Supervision, Ethics, and Antitrust in Michigan/Unit 1 Agent Supervision and Broker-Associate Relationship/Lessons/Lesson 2 Agency vs. Brokerage - Are They the Same.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 4 Power of Escheat in Michigan"
+              "title": "Lesson 2 Agency vs. Brokerage - Are They the Same"
             }
           }
         ]
@@ -41,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false,
+                "autoReveal": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 360.5
+    "width": 295.5
   },
   "right": {
     "id": "8f71e73edf7ece1c",
@@ -186,56 +186,58 @@
       "bases:Create new base": false
     }
   },
-  "active": "0b557ffd758135d7",
+  "active": "b6d112e3511b812a",
   "lastOpenFiles": [
-    "Real Estate/CE Shop/Resources/Section 5 MI Land Use Controls and Environmental Issues/Unit 1 Government Rights in Land/Lessons/Lesson 3 Eminent Domain.md",
-    "Real Estate/CE Shop/Resources/Section 5 MI Land Use Controls and Environmental Issues/Unit 1 Government Rights in Land/Lessons/Lesson 4 Power of Escheat in Michigan.md",
-    "Real Estate/CE Shop/Resources/Section 5 MI Land Use Controls and Environmental Issues/Unit 1 Government Rights in Land/Lessons/Lesson 2 Land Use Control Zoning & Police Power.md",
-    "Real Estate/CE Shop/Resources/Section 5 MI Land Use Controls and Environmental Issues/Unit 1 Government Rights in Land/Lessons/Lesson 2 Vocab.md",
-    "Real Estate/CE Shop/Resources/Section 5 MI Land Use Controls and Environmental Issues/Unit 1 Government Rights in Land/Lessons/Lesson 1 Types of Government Power.md",
-    "Real Estate/CE Shop/Resources/Section 4 Agency in Michigan/Unit 4 Agency Creation and Termination/Lessons/Unit Exam.md",
-    "Real Estate/CE Shop/Resources/Section 5 MI Land Use Controls and Environmental Issues/Unit 1 Government Rights in Land/Lessons",
-    "Real Estate/CE Shop/Resources/Section 4 Agency in Michigan/Unit 4 Agency Creation and Termination/Lessons/Lesson 5 Agency in Michigan Study Sheet.md",
-    "Real Estate/CE Shop/Resources/Section 4 Agency in Michigan/Unit 4 Agency Creation and Termination/Lessons/Lesson 4 Termination of Agency.md",
-    "Real Estate/CE Shop/Resources/Section 4 Agency in Michigan/Unit 4 Agency Creation and Termination/Lessons/Lesson 3 Agency Disclosure in Michigan.md",
-    "Real Estate/CE Shop/Resources/Section 4 Agency in Michigan/Unit 4 Agency Creation and Termination/Lessons/Lesson 2 Compensation Does Not Determine Agency.md",
-    "Real Estate/CE Shop/Resources/Section 4 Agency in Michigan/Unit 4 Agency Creation and Termination/Lessons/Lesson 1 Creating Agency.md",
-    "Real Estate/CE Shop/Resources/Section 4 Agency in Michigan/Unit 4 Agency Creation and Termination/Lessons/Lesson 1 Vocab.md",
-    "Real Estate/CE Shop/Resources/Section 4 Agency in Michigan/Unit 3 Fiduciary Duties/Lessons/Unit Exam.md",
-    "Real Estate/CE Shop/Resources/Section 4 Agency in Michigan/Unit 4 Agency Creation and Termination/Lessons",
-    "Real Estate/CE Shop/Resources/Section 4 Agency in Michigan/Unit 3 Fiduciary Duties/Lessons/Lesson 7 The Duty of Reasonable Skill and Care.md",
-    "Real Estate/CE Shop/Resources/Section 4 Agency in Michigan/Unit 3 Fiduciary Duties/Lessons/Lesson 6 The Duty of Accounting.md",
-    "Real Estate/CE Shop/Resources/Section 4 Agency in Michigan/Unit 3 Fiduciary Duties/Lessons/Lesson 5 The Duty of Confidentiality.md",
-    "Real Estate/CE Shop/Resources/Section 4 Agency in Michigan/Unit 3 Fiduciary Duties/Lessons/Lesson 4 The Duty of Disclosure.md",
-    "Real Estate/CE Shop/Resources/Section 4 Agency in Michigan/Unit 3 Fiduciary Duties/Lessons/Untitled",
-    "Real Estate/CE Shop/Resources/Section 4 Agency in Michigan/Unit 3 Fiduciary Duties/Lessons/Lesson 3 The Duty of Loyalty.md",
-    "Real Estate/CE Shop/Resources/Section 4 Agency in Michigan/Unit 3 Fiduciary Duties/Lessons/Lesson 2 The Duty of Obedience.md",
-    "Real Estate/CE Shop/Resources/Section 3 Property Ownership and Interests in Michigan/Unit 3 Describing Real Estate/Lessons/Lesson 2 Three Methods of Land Description.md",
-    "Real Estate/CE Shop/Resources/Section 4 Agency in Michigan/Unit 3 Fiduciary Duties/Lessons/Lesson 1 The Agent as Fiduciary.md",
-    "Real Estate/CE Shop/Resources/Section 4 Agency in Michigan/Unit 2 Subagency and Dual Agency Relationships/Lessons/Unit Exam.md",
-    "Real Estate/CE Shop/Resources/Section 4 Agency in Michigan/Unit 3 Fiduciary Duties/Lessons",
-    "Real Estate/CE Shop/Resources/Section 4 Agency in Michigan/Unit 2 Subagency and Dual Agency Relationships/Lessons/Lesson 4 The Use of Designated Agency.md",
-    "Real Estate/CE Shop/Resources/Section 4 Agency in Michigan/Unit 2 Subagency and Dual Agency Relationships/Lessons/Lesson 3 The Importance of Informed Consent with Dual Agency.md",
-    "Real Estate/CE Shop/Resources/Section 4 Agency in Michigan/Unit 2 Subagency and Dual Agency Relationships/Lessons/Lesson 2 What's Dual Agency.md",
-    "Real Estate/CE Shop/Resources/Section 4 Agency in Michigan/Unit 2 Subagency and Dual Agency Relationships/Lessons/Lesson 1 What Is SubAgency.md",
-    "Real Estate/CE Shop/MI Salesperson Exam Prep Edge 0 National & State Portions",
-    "Real Estate/CE Shop/Resources/Section 3 Property Ownership and Interests in Michigan/Unit 4 Encumbrances and Effects on Property Ownership/Lessons",
-    "Real Estate/CE Shop/Resources/Section 3 Property Ownership and Interests in Michigan/Unit 3 Describing Real Estate/Lessons",
-    "Real Estate/CE Shop/Resources/Section 3 Property Ownership and Interests in Michigan/Unit 2 Real Property Characteristics and the Bundle of Rights/Lessons",
-    "Real Estate/CE Shop/Resources/Section 4 Agency in Michigan/Unit 1 Types of Agencies and Responsibilities of Agents/Agency Relationships Available in Michigan.pdf",
-    "Real Estate/CE Shop/Resources/Section 4 Agency in Michigan/Unit 2 Subagency and Dual Agency Relationships/Lessons",
+    "Real Estate/CE Shop/Resources/Section 6 Supervision, Ethics, and Antitrust in Michigan/Unit 1 Agent Supervision and Broker-Associate Relationship/Lessons/Lesson 1 Duties Owed to Customers.md",
+    "Real Estate/CE Shop/Resources/Section 6 Supervision, Ethics, and Antitrust in Michigan/Unit 1 Agent Supervision and Broker-Associate Relationship/Lessons/Lesson 2 Agency vs. Brokerage - Are They the Same.md",
+    "Real Estate/CE Shop/Resources/Section 5 MI Land Use Controls and Environmental Issues/Unit 5 Michigan Environmental Regulations/Lessons/Unit Exam.md",
+    "Real Estate/CE Shop/Resources/Section 6 Supervision, Ethics, and Antitrust in Michigan/Unit 1 Agent Supervision and Broker-Associate Relationship/Lessons",
+    "Real Estate/CE Shop/Resources/Section 5 MI Land Use Controls and Environmental Issues/Unit 5 Michigan Environmental Regulations/Lessons/Lesson 4 Study Sheet for Land Use Controls and Environmental Issues in Michigan.md",
+    "Real Estate/CE Shop/Resources/Section 5 MI Land Use Controls and Environmental Issues/Unit 5 Michigan Environmental Regulations/Lessons/Lesson 3 Michigan Right to Farm Act.md",
+    "Real Estate/CE Shop/Resources/Section 5 MI Land Use Controls and Environmental Issues/Unit 5 Michigan Environmental Regulations/Lessons/Lesson 2 Brownfields.md",
+    "Pasted image 20261124134631.png",
+    "Real Estate/CE Shop/Resources/Section 5 MI Land Use Controls and Environmental Issues/Unit 5 Michigan Environmental Regulations/Lessons/Lesson 1 Michigan’s Natural Resources and Environmental Protection Act.md",
+    "Real Estate/CE Shop/Resources/Section 5 MI Land Use Controls and Environmental Issues/Unit 4 Regulation of Environmental Hazards/Lessons/Unit Exam.md",
+    "Real Estate/CE Shop/Resources/Section 5 MI Land Use Controls and Environmental Issues/Unit 5 Michigan Environmental Regulations/Lessons",
+    "Real Estate/CE Shop/Resources/Section 5 MI Land Use Controls and Environmental Issues/Unit 4 Regulation of Environmental Hazards/Lessons/Lesson 7 Recognizing Environmental Issues.md",
+    "Real Estate/CE Shop/Resources/Section 5 MI Land Use Controls and Environmental Issues/Unit 4 Regulation of Environmental Hazards/Lessons/Lesson 6 Environmental Hazards Inside the Home.md",
+    "Real Estate/CE Shop/Resources/Section 5 MI Land Use Controls and Environmental Issues/Unit 4 Regulation of Environmental Hazards/Lessons/Lesson 5 Underground Storage Tanks and the Environment.md",
+    "Pasted image 20261124105103.png",
+    "Pasted image 20261124105039.png",
+    "Real Estate/CE Shop/Resources/Section 5 MI Land Use Controls and Environmental Issues/Unit 4 Regulation of Environmental Hazards/Lessons/Lesson 4 Other Federal Environmental Laws.md",
+    "Pasted image 20261124104649.png",
+    "Pasted image 20261124104626.png",
+    "Pasted image 20261124104613.png",
+    "Pasted image 20261124104551.png",
+    "Real Estate/CE Shop/Resources/Section 5 MI Land Use Controls and Environmental Issues/Unit 4 Regulation of Environmental Hazards/Lessons/Lesson 3 Regulation of Special Land Types in Michigan.md",
+    "Real Estate/CE Shop/Resources/Section 5 MI Land Use Controls and Environmental Issues/Unit 4 Regulation of Environmental Hazards/Lessons/Lesson 2 Superfund Sites.md",
+    "Real Estate/CE Shop/Resources/Section 5 MI Land Use Controls and Environmental Issues/Unit 4 Regulation of Environmental Hazards/Lessons/Lesson 1 Environmental Impact Statement in Michigan.md",
+    "Real Estate/CE Shop/Resources/Section 5 MI Land Use Controls and Environmental Issues/Unit 3 Private Land Controls in Michigan/Lessons/Unit Exam.md",
+    "Real Estate/CE Shop/Resources/Section 5 MI Land Use Controls and Environmental Issues/Unit 4 Regulation of Environmental Hazards/Lessons",
+    "Real Estate/CE Shop/Resources/Section 5 MI Land Use Controls and Environmental Issues/Unit 3 Private Land Controls in Michigan/Lessons/Lesson 2 Restrictive Covenants in Michigan.md",
+    "Real Estate/CE Shop/Resources/Section 5 MI Land Use Controls and Environmental Issues/Unit 3 Private Land Controls in Michigan/Deed Restriction.pdf",
+    "Real Estate/CE Shop/Resources/Section 5 MI Land Use Controls and Environmental Issues/Unit 3 Private Land Controls in Michigan/Lessons/Lesson 1 Deed Restrictions.md",
+    "Scripts/go-to-end.js",
+    "Scripts/go-to-end.txt",
+    "Scripts/go-to-start.js",
+    "Scripts/New Text Document.txt",
+    "Real Estate/CE Shop/Resources/Section 5 MI Land Use Controls and Environmental Issues/Unit 2 Public Controls Based in Police Power/Lessons/Unit Exam.md",
+    "Real Estate/CE Shop/Resources/Section 5 MI Land Use Controls and Environmental Issues/Unit 3 Private Land Controls in Michigan/Lessons",
+    "Untitled.base",
+    "Scripts/wrap-highlight.js.md",
+    "Real Estate/CE Shop/Resources/Section 5 MI Land Use Controls and Environmental Issues/Unit 2 Public Controls Based in Police Power/Lessons/Lesson 6 Building Codes and City Certifications.md",
+    "Real Estate/CE Shop/Resources/Section 5 MI Land Use Controls and Environmental Issues/Unit 2 Public Controls Based in Police Power/Lessons/Lesson 7 Interstate Land Sales.md",
+    "Real Estate/CE Shop/Resources/Section 5 MI Land Use Controls and Environmental Issues/Unit 2 Public Controls Based in Police Power/Lessons/Lesson 5 Michigan’s Subdivision Regulations.md",
+    "Real Estate/CE Shop/Resources/Section 5 MI Land Use Controls and Environmental Issues/Unit 2 Public Controls Based in Police Power/Lessons/Lesson 4 Variances and Zoning Actions.md",
+    "Real Estate/CE Shop/Resources/Section 5 MI Land Use Controls and Environmental Issues/Unit 2 Public Controls Based in Police Power/Lessons/Lesson 3 Special Zoning Types.md",
+    "Real Estate/CE Shop/Resources/Section 5 MI Land Use Controls and Environmental Issues/Unit 2 Public Controls Based in Police Power/Lessons/Lesson 2 Planning Boards and Land Use Control.md",
     "Pasted image 20261117214602.png",
     "Pasted image 20261117214501.png",
     "Pasted image 20261117213934.png",
-    "Pasted image 20261117213812.png",
-    "Pasted image 20261117213756.png",
-    "Pasted image 20261107142628.png",
     "Untitled.canvas",
     "AI/ByteByteGo/Behavioral Interview/Untitled.canvas",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
-    "Pasted image 20260921124749.png",
-    "Untitled 1.canvas",
-    "Pasted image 20260921124736.png"
+    "Untitled 1.canvas"
   ]
 }

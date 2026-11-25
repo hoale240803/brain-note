@@ -1,0 +1,8 @@
+/* Đổi màu highlight chuẩn của Obsidian sang màu xanh lá */
+.cm-s-obsidian span.cm-highlight,
+mark {
+    background-color: #275239 !important;
+    color: #e6f4ea !important;
+    border-radius: 3px;
+    padding: 1px 3px;
+}
